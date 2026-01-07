@@ -3,8 +3,6 @@
 🎬🎵 Movie, Series & Music Recommendation System
 Built with Machine Learning • Python • Streamlit GUI • TMDB & Spotify API
 
-This project is an intelligent recommendation system that suggests movies, TV series, and music based on user input. It uses ML similarity algorithms, integrates real-time data from external APIs, and provides an interactive Streamlit-based GUI.
-
 📌 Features
 
 ✅ Movie Recommendation
