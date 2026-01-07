@@ -122,9 +122,4 @@ Author
 Harsh Kumar
 Computer Science | Data Analytics | Machine Learning
 
-For major changes, open an issue first to discuss proposed modifications.
-
-📜 License
-
-
-This project is licensed under the MIT License.
+For major changes, open an issue first to discuss proposed modificat
