@@ -119,6 +119,8 @@ Pull requests are welcome!
 
 ________________________________________
 Author
+
 Harsh Kumar
+
 Computer Science | Data Analytics | Machine Learning
 
