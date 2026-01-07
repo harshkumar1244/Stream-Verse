@@ -122,4 +122,3 @@ Author
 Harsh Kumar
 Computer Science | Data Analytics | Machine Learning
 
-For major changes, open an issue first to discuss proposed modificat
